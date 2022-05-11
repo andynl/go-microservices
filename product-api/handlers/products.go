@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/andynl/go-microservices/data"
+	"github.com/andynl/go-microservices/product-api/data"
 	"github.com/gorilla/mux"
 )
 

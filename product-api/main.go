@@ -10,8 +10,8 @@ import (
 
 	"github.com/go-openapi/runtime/middleware"
 
-	"github.com/andynl/go-microservices/data"
-	"github.com/andynl/go-microservices/handlers"
+	"github.com/andynl/go-microservices/product-api/data"
+	"github.com/andynl/go-microservices/product-api/handlers"
 	"github.com/gorilla/mux"
 )
 

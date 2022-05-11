@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/andynl/go-microservices/data"
+	"github.com/andynl/go-microservices/product-api/data"
 )
 
 // swagger:route POST /products products createProduct
